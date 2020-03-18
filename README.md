@@ -1,4 +1,4 @@
-# React Native Project Nektar-AI
+# React Native Spotify Clone
 
 ## Table of Contents
 
